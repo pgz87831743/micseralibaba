@@ -1,0 +1,15 @@
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: '*'
+#spring:
+#  application:
+#    name: nacos-security
+#  cloud:
+#    nacos:
+#      config:
+#        file-extension: yaml
+#        server-addr: 101.132.189.204:8848
+#      discovery:
+#        server-addr: 101.132.189.204:8848

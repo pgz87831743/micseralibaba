@@ -1,0 +1,11 @@
+# 项目排除路径
+/consumer/target/
+/feign/target/
+/gateway/target/
+/jc/target/
+/provider/target/
+/security/target/
+# 项目排除路径
+/common/target/
+/datastruct/target/
+/jvm/target/
